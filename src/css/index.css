@@ -1,0 +1,6 @@
+.video-list:hover {
+    background-color: #EEE;
+} 
+li:hover {
+    cursor: pointer;
+}
